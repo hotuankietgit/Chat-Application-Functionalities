@@ -1,5 +1,5 @@
 # Chat-Application-Functionalities
-Electron running WebRTC, WebSocket, with Screen Recording
+Electron running WebRTC (peerjs), WebSocket (socket.io), with Screen Recording (desktopCapturer)
 
 In the SERVER folder, run "npm start" to run signaling server
 
